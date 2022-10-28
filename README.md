@@ -24,5 +24,5 @@ once you paste URL https://localhost:****/ type in a forward slash, then you can
 //https://localhost:***/ochoBall/pressluck/lucky8
 take out the name item, and replace it with your name followed by time.
 once you have this info typed in, hit the blue button that reads send from inside the postman app.
-the postman should return body type of the 8 different answers could be.
+the postman should return body type of the 8 different answers.
 end of program.
